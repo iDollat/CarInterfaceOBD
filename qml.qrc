@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Gauge.qml</file>
+        <file>Bar.qml</file>
+    </qresource>
+</RCC>
